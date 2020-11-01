@@ -1,0 +1,9 @@
+import React from 'react';
+const useroutput = (props) => {
+	return (
+		<div className="UserOutput">
+			<p>Paragraph 1</p>
+			<p>Paragraph 2</p>
+		</div>
+	)
+}
